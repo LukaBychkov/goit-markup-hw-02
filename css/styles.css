@@ -83,7 +83,7 @@ background-color: #2e2f42;
 .hero-title {
 font-weight: 700;
 font-size: 56px;
-line-height: 1;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;   
@@ -147,7 +147,7 @@ letter-spacing: 0.02em;
 
 .team-title {
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -181,7 +181,7 @@ letter-spacing: 0.02em;
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
