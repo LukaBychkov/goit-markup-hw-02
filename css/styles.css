@@ -4,7 +4,7 @@ body {
     background-color: #fff;
 }
 ul , ol {
-    list-style-type: none;
+    list-style: none;
 }
 a {
     text-decoration: none;
@@ -83,7 +83,7 @@ background-color: #2e2f42;
 .hero-title {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.1;
+line-height: 1;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;   
@@ -108,6 +108,38 @@ background: #4d5ae5;
 /* #endregion */
 
 
+/* #region features */
+
+.features {
+}
+
+.features__title {
+}
+
+.features__list {
+}
+
+.features__item {
+}
+
+.features__subtitle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.features__text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+}
+
+
+/* #endregion */
+
+
 /* #region team */
 .team {
     background-color: #f4f4fd;
@@ -115,7 +147,7 @@ background: #4d5ae5;
 
 .team-title {
     font-size: 36px;
-    line-height: 1.2;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -149,7 +181,7 @@ background: #4d5ae5;
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.2;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -164,11 +196,17 @@ background: #4d5ae5;
 }
 
 .portfolio-name {
-
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .portfolio-text {
-
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 
